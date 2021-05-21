@@ -24,7 +24,7 @@ public:
             temp2=temp2->next;
         }
         if(temp2==head && temp==NULL){
-        head=head->next;
+            head=head->next;
         }else{
             temp2->next=temp2->next->next;
         }
