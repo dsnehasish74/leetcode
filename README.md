@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|4 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|48 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./solutions/75.%20Sort%20Colors.cpp)|0 ms|
