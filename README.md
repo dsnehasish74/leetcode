@@ -13,5 +13,6 @@
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|172 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|12 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|108 ms|
+|344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|32 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|4 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|0 ms|
