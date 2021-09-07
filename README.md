@@ -35,3 +35,4 @@
 |1013|[ Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[C++](./solutions/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.cpp)|40 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.cpp)|4 ms|
 |1991|[ Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)|[C++](./solutions/1991.%20Find%20the%20Middle%20Index%20in%20Array.cpp)|4 ms|
+|1995|[ Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)|[C++](./solutions/1995.%20Count%20Special%20Quadruplets.cpp)|20 ms|
